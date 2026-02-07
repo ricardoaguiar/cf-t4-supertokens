@@ -29,7 +29,7 @@
     "react-dom": "^18.2.0",
     "react-native": "^0.72.6",
     "react-native-web-lite": "1.75.9",
-    "webpack": "5.94.0"
+    "webpack": "5.104.1"
   },
   "devDependencies": {
     "@tamagui/next-plugin": "1.75.9",
